@@ -1,0 +1,48 @@
+﻿*{
+    margin:0px;
+    padding:0px;
+}
+.carousel{
+    margin:100px auto;
+    width:1000px;
+}
+.img{
+    width:50px;
+    height:400px;
+    float:left;
+}
+.img1 {
+    background-image: url('../img/1.jpg');
+    width:600px;
+}
+.img2 {
+    background-image: url('../img/2.jpg');
+}
+.img3 {
+    background-image: url('../img/3.jpg');
+}
+.img4 {
+    background-image: url('../img/4.jpg');
+}
+.img5 {
+    background-image: url('../img/5.jpg');
+}
+.text{
+    width:50px;
+    height:400px;
+    background-color:rgba(0, 0, 0, 0.50);
+}
+.text p{
+    width:20px;
+    font-size:20px;
+    float:left;
+    margin-left:10px;
+    margin-top:15px;
+}
+.p1{
+    color:#21e7c3;
+    text-shadow:5px 5px 5px #21e7c3;
+}
+.p2{
+    color:white;
+}
